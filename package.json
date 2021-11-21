@@ -2,6 +2,7 @@
   "name": "ps6-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hanchinshin.github.io/si579ps6/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
